@@ -46,14 +46,6 @@ git clone https://github.com/shaqdeff/Nyeusi-Fest-Site.git
 
 - After opening the files in Visual Studio Code, press the **Go Live** button on the status bar (bottom of the window) to launch the files with Live Server.
 
-## Authors
-
-👤 **Shaquille Ndunda**
-
-- GitHub: [@shaqdeff](https://github.com/shaqdeff)
-- Twitter: [@shaquillendunda](https://twitter.com/shaquillendunda)
-- LinkedIn: [Shaquille Ndunda](https://www.linkedin.com/in/shaquille-ndunda-b13a95107/)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
